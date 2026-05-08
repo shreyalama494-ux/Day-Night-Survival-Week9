@@ -1,3 +1,4 @@
+// Integrated EnemySAI with navigation and proximity logic.
 using UnityEngine;
 using UnityEngine.AI;
 using System.Collections;
