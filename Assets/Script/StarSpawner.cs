@@ -1,4 +1,4 @@
-Developed Procedural Celestial Generation
+
 using UnityEngine;
 
 public class StarSpawner : MonoBehaviour
