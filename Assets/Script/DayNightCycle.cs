@@ -1,3 +1,4 @@
+updated the DayNightCycle 
 using UnityEngine;
 using UnityEngine.UI;
 
